@@ -1,0 +1,9 @@
+Package: lh-attack-surface-mapper
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-attack - Perimeter Asset Exposure Index & Port Severity Weighting
+ Zero-daemon external attack surface mapper and asset exposure analyzer auditing open management ports, shadow subdomains, CIDR allocations, and unauthenticated service banners with SARIF v2.1.0 export.
